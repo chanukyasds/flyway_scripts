@@ -1,1 +1,1 @@
-Create table check_flyway(col1 text);
+Insert into check_flyway select current_timestamp;
