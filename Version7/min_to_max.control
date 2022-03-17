@@ -1,0 +1,4 @@
+comment = 'Min_to_Max aggregate extension'
+default_version = '1.0'
+relocatable = true
+module_pathname = '$libdir/min_to_max'
