@@ -1,5 +1,0 @@
-CREATE OR REPLACE FUNCTION 
-min_to_max(int4[])
-RETURNS text
-AS 'MODULE_PATHNAME','min_to_max'
-LANGUAGE c;
